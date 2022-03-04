@@ -54,7 +54,7 @@ I was having trouble understaning relationship between adapter and xml
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="walkthroughHW2.gif" width=250><br>
 
 ### Notes
 
